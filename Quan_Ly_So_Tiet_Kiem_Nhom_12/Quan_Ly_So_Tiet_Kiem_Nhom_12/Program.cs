@@ -16,7 +16,7 @@ namespace Quan_Ly_So_Tiet_Kiem_Nhom_12
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new QL_TrangChu.QL_TrangChu());
+            Application.Run(new QL_DangNhap.QL_DangNhap());
         }
     }
 }

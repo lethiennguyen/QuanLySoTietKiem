@@ -37,10 +37,11 @@
             this.Btn_GuiSoTietKiem = new Guna.UI2.WinForms.Guna2Button();
             this.tenNV = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.label_Chucnang = new System.Windows.Forms.Label();
             this.ShowForm = new System.Windows.Forms.Panel();
             this.panel4 = new System.Windows.Forms.Panel();
             this.panel5 = new System.Windows.Forms.Panel();
-            this.label_Chucnang = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
             this.guna2CirclePictureBox1 = new Guna.UI2.WinForms.Guna2CirclePictureBox();
             this.guna2Panel1.SuspendLayout();
             this.guna2Panel2.SuspendLayout();
@@ -51,6 +52,7 @@
             // guna2Panel1
             // 
             this.guna2Panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(176)))), ((int)(((byte)(17)))), ((int)(((byte)(55)))));
+            this.guna2Panel1.Controls.Add(this.label1);
             this.guna2Panel1.Controls.Add(this.btn_DangNhap);
             this.guna2Panel1.Controls.Add(this.guna2Panel2);
             this.guna2Panel1.Controls.Add(this.guna2CirclePictureBox1);
@@ -175,6 +177,7 @@
             this.Btn_GuiSoTietKiem.Size = new System.Drawing.Size(199, 75);
             this.Btn_GuiSoTietKiem.TabIndex = 0;
             this.Btn_GuiSoTietKiem.Text = "Gửi sổ";
+            this.Btn_GuiSoTietKiem.Click += new System.EventHandler(this.Btn_GuiSoTietKiem_Click);
             // 
             // tenNV
             // 
@@ -196,6 +199,17 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(1249, 65);
             this.panel1.TabIndex = 1;
+            // 
+            // label_Chucnang
+            // 
+            this.label_Chucnang.AutoSize = true;
+            this.label_Chucnang.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label_Chucnang.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.label_Chucnang.Location = new System.Drawing.Point(516, 24);
+            this.label_Chucnang.Name = "label_Chucnang";
+            this.label_Chucnang.Size = new System.Drawing.Size(50, 21);
+            this.label_Chucnang.TabIndex = 0;
+            this.label_Chucnang.Text = "          ";
             // 
             // ShowForm
             // 
@@ -223,16 +237,14 @@
             this.panel5.Size = new System.Drawing.Size(5, 672);
             this.panel5.TabIndex = 3;
             // 
-            // label_Chucnang
+            // label1
             // 
-            this.label_Chucnang.AutoSize = true;
-            this.label_Chucnang.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label_Chucnang.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.label_Chucnang.Location = new System.Drawing.Point(516, 24);
-            this.label_Chucnang.Name = "label_Chucnang";
-            this.label_Chucnang.Size = new System.Drawing.Size(50, 21);
-            this.label_Chucnang.TabIndex = 0;
-            this.label_Chucnang.Text = "          ";
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(155, 17);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(35, 13);
+            this.label1.TabIndex = 1;
+            this.label1.Text = "label1";
             // 
             // guna2CirclePictureBox1
             // 
@@ -286,5 +298,6 @@
         private System.Windows.Forms.Panel panel4;
         private System.Windows.Forms.Panel panel5;
         private System.Windows.Forms.Label label_Chucnang;
+        private System.Windows.Forms.Label label1;
     }
 }

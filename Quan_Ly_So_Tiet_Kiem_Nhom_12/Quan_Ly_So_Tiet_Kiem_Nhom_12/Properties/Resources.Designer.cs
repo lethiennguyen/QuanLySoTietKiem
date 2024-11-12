@@ -109,5 +109,15 @@ namespace Quan_Ly_So_Tiet_Kiem_Nhom_12.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Remove_bg_ai_1731438347297 {
+            get {
+                object obj = ResourceManager.GetObject("Remove-bg.ai_1731438347297", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }

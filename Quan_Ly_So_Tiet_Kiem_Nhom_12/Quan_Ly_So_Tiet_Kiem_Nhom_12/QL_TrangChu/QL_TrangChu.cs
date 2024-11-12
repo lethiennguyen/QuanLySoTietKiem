@@ -17,6 +17,13 @@ namespace Quan_Ly_So_Tiet_Kiem_Nhom_12.QL_TrangChu
         {
             InitializeComponent();
         }
+        public string MatKhau { get; set; }
+        public QL_TrangChu(string loaiNguoiDung,string password)
+        {
+            InitializeComponent();
+            label1.Text = loaiNguoiDung; // Gán vai trò vào Label trên Trang Chủ
+            this.MatKhau = password;
+        }
         private Form currentChilFoms;
         private void OpenChilForm(Form ChilFoms)
         {
@@ -33,14 +40,22 @@ namespace Quan_Ly_So_Tiet_Kiem_Nhom_12.QL_TrangChu
             ShowForm.Tag = ChilFoms;
             ChilFoms.BringToFront();
             ChilFoms.Show();
-
+            
         }
         public string chucnang ;
         private void btn_NhanVien_Click(object sender, EventArgs e)
         {
             chucnang = "Quản lý nhân viên";
             label_Chucnang.Text = chucnang;
-            OpenChilForm(new QL_NhanVien.QuanLyQuyen());            
+            if (label1.Text == "QuanLy")
+            {
+                OpenChilForm(new QL_NhanVien.QuanLyQuyen(MatKhau));               
+            }
+            else
+            {
+                OpenChilForm(new QL_NhanVien.NoQL_NhanVien());
+            }
+                 
         }
 
         private void QL_TrangChu_Load(object sender, EventArgs e)
@@ -60,6 +75,13 @@ namespace Quan_Ly_So_Tiet_Kiem_Nhom_12.QL_TrangChu
             chucnang = "Quản lý khach hang";
             label_Chucnang.Text = chucnang;
             OpenChilForm(new QL_KhachHang.QL_KhachHang());
+        }
+
+        private void Btn_GuiSoTietKiem_Click(object sender, EventArgs e)
+        {
+            chucnang = "Quan Ly So";
+            label_Chucnang.Text = chucnang;
+            OpenChilForm(new QL_LoaiSoTietKiem.XuLySoTietKiem());
         }
     }
 }
