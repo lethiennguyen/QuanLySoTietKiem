@@ -17,12 +17,17 @@ namespace Quan_Ly_So_Tiet_Kiem_Nhom_12.QL_NhanVien
         {
             InitializeComponent();
         }
-
+        private string storedPassword;
+        public QuanLyQuyen(string password)
+        {
+            InitializeComponent();
+            storedPassword = password; 
+        }
 
         private Form currentChilFoms;
         private void OpenChilForm(Form ChilFoms)
         {
-            if (currentChilFoms != null)//kiểm tra khơi tạo rồi đóng
+            if (currentChilFoms != null)
             {
                 currentChilFoms.Close();
             }
@@ -46,8 +51,18 @@ namespace Quan_Ly_So_Tiet_Kiem_Nhom_12.QL_NhanVien
 
         private void btn_DangNhap_Click_1(object sender, EventArgs e)
         {
-            guna2Panel1.Controls.Clear();
-            OpenChilForm(new QL_NhanVien());
+            string enteredPassword =txtPassword.Text;
+
+            if (enteredPassword == storedPassword)
+            {
+                guna2Panel1.Controls.Clear();
+                OpenChilForm(new QL_NhanVien());
+            }
+            else
+            {
+                MessageBox.Show("Sai Mat Khau !");
+            }
+            
         }
 
         private void chkShowPassword_MouseDown_1(object sender, MouseEventArgs e)

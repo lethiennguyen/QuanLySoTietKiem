@@ -66,13 +66,22 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ClassThongTin\ClassDangNhap.cs" />
+    <Compile Include="ClassThongTin\ClassNhanVien.cs" />
     <Compile Include="Connect_SQL\ConnectSQL.cs" />
+    <Compile Include="Connect_SQL\ModifyDangNhap.cs" />
+    <Compile Include="Connect_SQL\ModifyNhanVien.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="QL_DangNhap\QL_DangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QL_DangNhap\QL_DangNhap.Designer.cs">
+      <DependentUpon>QL_DangNhap.cs</DependentUpon>
     </Compile>
     <Compile Include="QL_KhachHang\QL_KhachHang.cs">
       <SubType>Form</SubType>
@@ -81,6 +90,12 @@
       <DependentUpon>QL_KhachHang.cs</DependentUpon>
     </Compile>
     <Compile Include="QL_KhachHang\TinhHuyen.cs" />
+    <Compile Include="QL_LoaiSoTietKiem\AddSoTietKiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QL_LoaiSoTietKiem\AddSoTietKiem.Designer.cs">
+      <DependentUpon>AddSoTietKiem.cs</DependentUpon>
+    </Compile>
     <Compile Include="QL_LoaiSoTietKiem\QL_SoTietKiem.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -98,6 +113,12 @@
     </Compile>
     <Compile Include="QL_LoaiSoTietKiem\XuLySoTietKiem.Designer.cs">
       <DependentUpon>XuLySoTietKiem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QL_NhanVien\NoQL_NhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QL_NhanVien\NoQL_NhanVien.Designer.cs">
+      <DependentUpon>NoQL_NhanVien.cs</DependentUpon>
     </Compile>
     <Compile Include="QL_NhanVien\QL_NhanVien.cs">
       <SubType>Form</SubType>
@@ -127,8 +148,14 @@
       <SubType>Designer</SubType>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="QL_DangNhap\QL_DangNhap.resx">
+      <DependentUpon>QL_DangNhap.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="QL_KhachHang\QL_KhachHang.resx">
       <DependentUpon>QL_KhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QL_LoaiSoTietKiem\AddSoTietKiem.resx">
+      <DependentUpon>AddSoTietKiem.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="QL_LoaiSoTietKiem\QL_SoTietKiem.resx">
       <DependentUpon>QL_SoTietKiem.cs</DependentUpon>
@@ -139,8 +166,8 @@
     <EmbeddedResource Include="QL_LoaiSoTietKiem\XuLySoTietKiem.resx">
       <DependentUpon>XuLySoTietKiem.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="QL_NhanVien\QL_NhanVien.aa-DJ.resx">
-      <DependentUpon>QL_NhanVien.cs</DependentUpon>
+    <EmbeddedResource Include="QL_NhanVien\NoQL_NhanVien.resx">
+      <DependentUpon>NoQL_NhanVien.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="QL_NhanVien\QL_NhanVien.resx">
       <DependentUpon>QL_NhanVien.cs</DependentUpon>
@@ -165,9 +192,7 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="QL_DangNhap\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <None Include="QuanLyTietKiemDataSet.xsc">
       <DependentUpon>QuanLyTietKiemDataSet.xsd</DependentUpon>
@@ -183,6 +208,7 @@
     <None Include="Resources\password.jpg" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\Remove-bg.ai_1731438347297.png" />
     <None Include="Resources\logo_nganhang.jpg" />
     <None Include="Resources\f17faec796b7c2baa24756c0fa110f67.jpg" />
     <Content Include="Resources\icon_avarat.jpg" />

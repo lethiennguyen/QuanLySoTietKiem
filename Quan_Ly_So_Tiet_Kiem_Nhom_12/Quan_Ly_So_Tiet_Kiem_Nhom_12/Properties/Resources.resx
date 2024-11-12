@@ -121,16 +121,19 @@
   <data name="icon_avarat" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon_avarat.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="f17faec796b7c2baa24756c0fa110f67" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\f17faec796b7c2baa24756c0fa110f67.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="logo_nganhang" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\logo_nganhang.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="password" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\password.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="f17faec796b7c2baa24756c0fa110f67" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\f17faec796b7c2baa24756c0fa110f67.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Remove-bg.ai_1730972142402" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Remove-bg.ai_1730972142402.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="logo_nganhang" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\logo_nganhang.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Remove-bg.ai_1731438347297" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Remove-bg.ai_1731438347297.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
