@@ -52,6 +52,14 @@ namespace Quan_Ly_So_Tiet_Kiem_Nhom_12.QL_KhachHang
             {
                 txtQuan.SelectedIndex = 0;
             }
+            if (txtQuan.Items.Count > 0)
+            {
+                txtQuan.SelectedIndex = 0;
+            }
+            if (txtQuan.Items.Count > 0)
+            {
+                txtQuan.SelectedIndex = 0;
+            }
         }
     }
 }
