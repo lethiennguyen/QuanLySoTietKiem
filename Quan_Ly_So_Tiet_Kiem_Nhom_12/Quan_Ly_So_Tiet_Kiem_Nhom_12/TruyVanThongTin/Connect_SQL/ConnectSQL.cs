@@ -9,7 +9,7 @@ namespace Quan_Ly_So_Tiet_Kiem_Nhom_12.Connect_SQL
 {
     internal class ConnectSQL
     {
-        private static string StringConnection = @"Data Source=DESKTOP-ATGVPAR;Initial Catalog=QuanLyTietKiem;Integrated Security=True;";
+        private static string StringConnection = @"Data Source=DESKTOP-ATGVPAR;Initial Catalog=QuanLySoTietKiem;Integrated Security=True;";
         public static SqlConnection getConnection()
         {
             return new SqlConnection(StringConnection);
