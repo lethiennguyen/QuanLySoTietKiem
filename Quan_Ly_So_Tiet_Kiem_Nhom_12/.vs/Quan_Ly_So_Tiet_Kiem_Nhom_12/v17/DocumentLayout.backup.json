@@ -3,63 +3,87 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|c:\\users\\admin\\source\\repos\\quanlysotietkiem\\quan_ly_so_tiet_kiem_nhom_12\\quan_ly_so_tiet_kiem_nhom_12\\ql_nhanvien\\quanlyquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|solutionrelative:quan_ly_so_tiet_kiem_nhom_12\\ql_nhanvien\\quanlyquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|c:\\users\\admin\\source\\repos\\quanlysotietkiem\\quan_ly_so_tiet_kiem_nhom_12\\quan_ly_so_tiet_kiem_nhom_12\\truyvanthongtin\\connect_sql\\modifynhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|solutionrelative:quan_ly_so_tiet_kiem_nhom_12\\truyvanthongtin\\connect_sql\\modifynhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|c:\\users\\admin\\source\\repos\\quanlysotietkiem\\quan_ly_so_tiet_kiem_nhom_12\\quan_ly_so_tiet_kiem_nhom_12\\ql_nhanvien\\quanlyquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|solutionrelative:quan_ly_so_tiet_kiem_nhom_12\\ql_nhanvien\\quanlyquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|c:\\users\\admin\\source\\repos\\quanlysotietkiem\\quan_ly_so_tiet_kiem_nhom_12\\quan_ly_so_tiet_kiem_nhom_12\\truyvanthongtin\\connect_sql\\modifydangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|solutionrelative:quan_ly_so_tiet_kiem_nhom_12\\truyvanthongtin\\connect_sql\\modifydangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|c:\\users\\admin\\source\\repos\\quanlysotietkiem\\quan_ly_so_tiet_kiem_nhom_12\\quan_ly_so_tiet_kiem_nhom_12\\ql_dangnhap\\ql_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|solutionrelative:quan_ly_so_tiet_kiem_nhom_12\\ql_dangnhap\\ql_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\quan_ly_so_tiet_kiem_nhom_12\\ql_nhanvien\\ql_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|solutionrelative:quan_ly_so_tiet_kiem_nhom_12\\ql_nhanvien\\ql_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|c:\\users\\admin\\source\\repos\\quanlysotietkiem\\quan_ly_so_tiet_kiem_nhom_12\\quan_ly_so_tiet_kiem_nhom_12\\ql_trangchu\\ql_trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|solutionrelative:quan_ly_so_tiet_kiem_nhom_12\\ql_trangchu\\ql_trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|c:\\users\\admin\\source\\repos\\quanlysotietkiem\\quan_ly_so_tiet_kiem_nhom_12\\quan_ly_so_tiet_kiem_nhom_12\\ql_trangchu\\ql_trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|solutionrelative:quan_ly_so_tiet_kiem_nhom_12\\ql_trangchu\\ql_trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|c:\\users\\admin\\source\\repos\\quanlysotietkiem\\quan_ly_so_tiet_kiem_nhom_12\\quan_ly_so_tiet_kiem_nhom_12\\classthongtin\\classdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|solutionrelative:quan_ly_so_tiet_kiem_nhom_12\\classthongtin\\classdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|c:\\users\\admin\\source\\repos\\quanlysotietkiem\\quan_ly_so_tiet_kiem_nhom_12\\quan_ly_so_tiet_kiem_nhom_12\\ql_dangnhap\\ql_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|solutionrelative:quan_ly_so_tiet_kiem_nhom_12\\ql_dangnhap\\ql_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|c:\\users\\admin\\source\\repos\\quanlysotietkiem\\quan_ly_so_tiet_kiem_nhom_12\\quan_ly_so_tiet_kiem_nhom_12\\ql_nhanvien\\ql_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\quan_ly_so_tiet_kiem_nhom_12\\ql_nhanvien\\ql_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|solutionrelative:quan_ly_so_tiet_kiem_nhom_12\\ql_nhanvien\\ql_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|c:\\users\\admin\\source\\repos\\quanlysotietkiem\\quan_ly_so_tiet_kiem_nhom_12\\quan_ly_so_tiet_kiem_nhom_12\\ql_loaisotietkiem\\xulysotietkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|c:\\users\\admin\\source\\repos\\quanlysotietkiem\\quan_ly_so_tiet_kiem_nhom_12\\quan_ly_so_tiet_kiem_nhom_12\\truyvanthongtin\\classthongtin\\classdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|solutionrelative:quan_ly_so_tiet_kiem_nhom_12\\truyvanthongtin\\classthongtin\\classdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|c:\\users\\admin\\source\\repos\\quanlysotietkiem\\quan_ly_so_tiet_kiem_nhom_12\\quan_ly_so_tiet_kiem_nhom_12\\truyvanthongtin\\classthongtin\\classnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|solutionrelative:quan_ly_so_tiet_kiem_nhom_12\\truyvanthongtin\\classthongtin\\classnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|c:\\users\\admin\\source\\repos\\quanlysotietkiem\\quan_ly_so_tiet_kiem_nhom_12\\quan_ly_so_tiet_kiem_nhom_12\\truyvanthongtin\\connect_sql\\connectsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|solutionrelative:quan_ly_so_tiet_kiem_nhom_12\\truyvanthongtin\\connect_sql\\connectsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|c:\\users\\admin\\source\\repos\\quanlysotietkiem\\quan_ly_so_tiet_kiem_nhom_12\\quan_ly_so_tiet_kiem_nhom_12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|solutionrelative:quan_ly_so_tiet_kiem_nhom_12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\quan_ly_so_tiet_kiem_nhom_12\\ql_nhanvien\\quanlyquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|solutionrelative:quan_ly_so_tiet_kiem_nhom_12\\ql_nhanvien\\quanlyquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\quan_ly_so_tiet_kiem_nhom_12\\ql_nhanvien\\quanlyquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|solutionrelative:quan_ly_so_tiet_kiem_nhom_12\\ql_nhanvien\\quanlyquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\quan_ly_so_tiet_kiem_nhom_12\\ql_dangnhap\\ql_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|solutionrelative:quan_ly_so_tiet_kiem_nhom_12\\ql_dangnhap\\ql_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\quan_ly_so_tiet_kiem_nhom_12\\ql_trangchu\\ql_trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|solutionrelative:quan_ly_so_tiet_kiem_nhom_12\\ql_trangchu\\ql_trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\quan_ly_so_tiet_kiem_nhom_12\\ql_trangchu\\ql_trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|solutionrelative:quan_ly_so_tiet_kiem_nhom_12\\ql_trangchu\\ql_trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\quan_ly_so_tiet_kiem_nhom_12\\ql_dangnhap\\ql_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|solutionrelative:quan_ly_so_tiet_kiem_nhom_12\\ql_dangnhap\\ql_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\quan_ly_so_tiet_kiem_nhom_12\\ql_loaisotietkiem\\xulysotietkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|solutionrelative:quan_ly_so_tiet_kiem_nhom_12\\ql_loaisotietkiem\\xulysotietkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|c:\\users\\admin\\source\\repos\\quanlysotietkiem\\quan_ly_so_tiet_kiem_nhom_12\\quan_ly_so_tiet_kiem_nhom_12\\ql_loaisotietkiem\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\quan_ly_so_tiet_kiem_nhom_12\\ql_loaisotietkiem\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|solutionrelative:quan_ly_so_tiet_kiem_nhom_12\\ql_loaisotietkiem\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|c:\\users\\admin\\source\\repos\\quanlysotietkiem\\quan_ly_so_tiet_kiem_nhom_12\\quan_ly_so_tiet_kiem_nhom_12\\ql_loaisotietkiem\\addsotietkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\quan_ly_so_tiet_kiem_nhom_12\\ql_loaisotietkiem\\addsotietkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|solutionrelative:quan_ly_so_tiet_kiem_nhom_12\\ql_loaisotietkiem\\addsotietkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|c:\\users\\admin\\source\\repos\\quanlysotietkiem\\quan_ly_so_tiet_kiem_nhom_12\\quan_ly_so_tiet_kiem_nhom_12\\ql_loaisotietkiem\\ql_sotietkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\quan_ly_so_tiet_kiem_nhom_12\\ql_loaisotietkiem\\ql_sotietkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|solutionrelative:quan_ly_so_tiet_kiem_nhom_12\\ql_loaisotietkiem\\ql_sotietkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|c:\\users\\admin\\source\\repos\\quanlysotietkiem\\quan_ly_so_tiet_kiem_nhom_12\\quan_ly_so_tiet_kiem_nhom_12\\ql_loaisotietkiem\\xulysotietkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\quan_ly_so_tiet_kiem_nhom_12\\ql_loaisotietkiem\\xulysotietkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|solutionrelative:quan_ly_so_tiet_kiem_nhom_12\\ql_loaisotietkiem\\xulysotietkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|c:\\users\\admin\\source\\repos\\quanlysotietkiem\\quan_ly_so_tiet_kiem_nhom_12\\quan_ly_so_tiet_kiem_nhom_12\\ql_nhanvien\\noql_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\quan_ly_so_tiet_kiem_nhom_12\\ql_nhanvien\\noql_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|solutionrelative:quan_ly_so_tiet_kiem_nhom_12\\ql_nhanvien\\noql_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|c:\\users\\admin\\source\\repos\\quanlysotietkiem\\quan_ly_so_tiet_kiem_nhom_12\\quan_ly_so_tiet_kiem_nhom_12\\ql_khachhang\\ql_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\quan_ly_so_tiet_kiem_nhom_12\\ql_khachhang\\ql_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B67DFB2C-BB76-4F69-963C-8E3A29973D1B}|Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12.csproj|solutionrelative:quan_ly_so_tiet_kiem_nhom_12\\ql_khachhang\\ql_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -70,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,70 +110,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Program.cs",
+              "RelativeDocumentMoniker": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Program.cs",
+              "RelativeToolTip": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T07:25:34.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModifyDangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\TruyVanThongTin\\Connect_SQL\\ModifyDangNhap.cs",
+              "RelativeDocumentMoniker": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\TruyVanThongTin\\Connect_SQL\\ModifyDangNhap.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\TruyVanThongTin\\Connect_SQL\\ModifyDangNhap.cs",
+              "RelativeToolTip": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\TruyVanThongTin\\Connect_SQL\\ModifyDangNhap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T22:17:04.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConnectSQL.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\TruyVanThongTin\\Connect_SQL\\ConnectSQL.cs",
+              "RelativeDocumentMoniker": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\TruyVanThongTin\\Connect_SQL\\ConnectSQL.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\TruyVanThongTin\\Connect_SQL\\ConnectSQL.cs",
+              "RelativeToolTip": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\TruyVanThongTin\\Connect_SQL\\ConnectSQL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T22:16:19.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModifyNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\TruyVanThongTin\\Connect_SQL\\ModifyNhanVien.cs",
+              "RelativeDocumentMoniker": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\TruyVanThongTin\\Connect_SQL\\ModifyNhanVien.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\TruyVanThongTin\\Connect_SQL\\ModifyNhanVien.cs*",
+              "RelativeToolTip": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\TruyVanThongTin\\Connect_SQL\\ModifyNhanVien.cs*",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAiwJ0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T22:16:10.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ClassDangNhap.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\ClassThongTin\\ClassDangNhap.cs",
-              "RelativeDocumentMoniker": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\ClassThongTin\\ClassDangNhap.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\ClassThongTin\\ClassDangNhap.cs",
-              "RelativeToolTip": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\ClassThongTin\\ClassDangNhap.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\TruyVanThongTin\\ClassThongTin\\ClassDangNhap.cs",
+              "RelativeDocumentMoniker": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\TruyVanThongTin\\ClassThongTin\\ClassDangNhap.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\TruyVanThongTin\\ClassThongTin\\ClassDangNhap.cs",
+              "RelativeToolTip": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\TruyVanThongTin\\ClassThongTin\\ClassDangNhap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T22:09:29.987Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "QL_DangNhap.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_DangNhap\\QL_DangNhap.cs",
-              "RelativeDocumentMoniker": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_DangNhap\\QL_DangNhap.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_DangNhap\\QL_DangNhap.cs",
-              "RelativeToolTip": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_DangNhap\\QL_DangNhap.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAEwCcAAABlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T21:55:33.064Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "QL_DangNhap.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_DangNhap\\QL_DangNhap.cs",
-              "RelativeDocumentMoniker": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_DangNhap\\QL_DangNhap.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_DangNhap\\QL_DangNhap.cs [Design]",
-              "RelativeToolTip": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_DangNhap\\QL_DangNhap.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T21:55:31.121Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "XuLySoTietKiem.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_LoaiSoTietKiem\\XuLySoTietKiem.cs",
-              "RelativeDocumentMoniker": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_LoaiSoTietKiem\\XuLySoTietKiem.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_LoaiSoTietKiem\\XuLySoTietKiem.cs",
-              "RelativeToolTip": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_LoaiSoTietKiem\\XuLySoTietKiem.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAA8wDMAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T21:45:53.619Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "QL_TrangChu.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_TrangChu\\QL_TrangChu.cs",
-              "RelativeDocumentMoniker": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_TrangChu\\QL_TrangChu.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_TrangChu\\QL_TrangChu.cs [Design]",
-              "RelativeToolTip": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_TrangChu\\QL_TrangChu.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T21:23:32.969Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "QL_TrangChu.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_TrangChu\\QL_TrangChu.cs",
               "RelativeDocumentMoniker": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_TrangChu\\QL_TrangChu.cs",
@@ -157,37 +183,11 @@
               "RelativeToolTip": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_TrangChu\\QL_TrangChu.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAIwDYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T21:23:35.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T21:23:35.881Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "QuanLyQuyen.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_NhanVien\\QuanLyQuyen.cs",
-              "RelativeDocumentMoniker": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_NhanVien\\QuanLyQuyen.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_NhanVien\\QuanLyQuyen.cs [Design]",
-              "RelativeToolTip": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_NhanVien\\QuanLyQuyen.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T21:12:13.999Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "QuanLyQuyen.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_NhanVien\\QuanLyQuyen.cs",
-              "RelativeDocumentMoniker": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_NhanVien\\QuanLyQuyen.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_NhanVien\\QuanLyQuyen.cs",
-              "RelativeToolTip": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_NhanVien\\QuanLyQuyen.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAswDoAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T21:11:11.218Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "QL_NhanVien.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_NhanVien\\QL_NhanVien.cs",
               "RelativeDocumentMoniker": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_NhanVien\\QL_NhanVien.cs",
@@ -199,75 +199,164 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 2,
+              "Title": "QL_NhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_NhanVien\\QL_NhanVien.cs",
+              "RelativeDocumentMoniker": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_NhanVien\\QL_NhanVien.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_NhanVien\\QL_NhanVien.cs",
+              "RelativeToolTip": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_NhanVien\\QL_NhanVien.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAiwGoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T22:16:34.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClassNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\TruyVanThongTin\\ClassThongTin\\ClassNhanVien.cs",
+              "RelativeDocumentMoniker": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\TruyVanThongTin\\ClassThongTin\\ClassNhanVien.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\TruyVanThongTin\\ClassThongTin\\ClassNhanVien.cs",
+              "RelativeToolTip": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\TruyVanThongTin\\ClassThongTin\\ClassNhanVien.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA8wCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T07:16:12.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QL_TrangChu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_TrangChu\\QL_TrangChu.cs",
+              "RelativeDocumentMoniker": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_TrangChu\\QL_TrangChu.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_TrangChu\\QL_TrangChu.cs [Design]",
+              "RelativeToolTip": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_TrangChu\\QL_TrangChu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T21:23:32.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "XuLySoTietKiem.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_LoaiSoTietKiem\\XuLySoTietKiem.cs",
+              "RelativeDocumentMoniker": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_LoaiSoTietKiem\\XuLySoTietKiem.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_LoaiSoTietKiem\\XuLySoTietKiem.cs",
+              "RelativeToolTip": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_LoaiSoTietKiem\\XuLySoTietKiem.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA8wDMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T21:45:53.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "QL_DangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_DangNhap\\QL_DangNhap.cs",
+              "RelativeDocumentMoniker": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_DangNhap\\QL_DangNhap.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_DangNhap\\QL_DangNhap.cs [Design]",
+              "RelativeToolTip": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_DangNhap\\QL_DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T21:55:31.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QL_DangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_DangNhap\\QL_DangNhap.cs",
+              "RelativeDocumentMoniker": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_DangNhap\\QL_DangNhap.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_DangNhap\\QL_DangNhap.cs",
+              "RelativeToolTip": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_DangNhap\\QL_DangNhap.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAEwCcAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T21:55:33.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QuanLyQuyen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_NhanVien\\QuanLyQuyen.cs",
+              "RelativeDocumentMoniker": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_NhanVien\\QuanLyQuyen.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_NhanVien\\QuanLyQuyen.cs [Design]",
+              "RelativeToolTip": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_NhanVien\\QuanLyQuyen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T21:12:13.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QuanLyQuyen.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_NhanVien\\QuanLyQuyen.cs",
+              "RelativeDocumentMoniker": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_NhanVien\\QuanLyQuyen.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_NhanVien\\QuanLyQuyen.cs",
+              "RelativeToolTip": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_NhanVien\\QuanLyQuyen.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T21:11:11.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "XuLySoTietKiem.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_LoaiSoTietKiem\\XuLySoTietKiem.cs",
               "RelativeDocumentMoniker": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_LoaiSoTietKiem\\XuLySoTietKiem.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_LoaiSoTietKiem\\XuLySoTietKiem.cs [Design]",
               "RelativeToolTip": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_LoaiSoTietKiem\\XuLySoTietKiem.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T21:11:58.028Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-12T21:11:58.028Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "QL_SoTietKiem.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_LoaiSoTietKiem\\QL_SoTietKiem.cs",
               "RelativeDocumentMoniker": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_LoaiSoTietKiem\\QL_SoTietKiem.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_LoaiSoTietKiem\\QL_SoTietKiem.cs [Design]",
               "RelativeToolTip": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_LoaiSoTietKiem\\QL_SoTietKiem.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T21:45:25.983Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-12T21:45:25.983Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "AddSoTietKiem.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_LoaiSoTietKiem\\AddSoTietKiem.cs",
               "RelativeDocumentMoniker": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_LoaiSoTietKiem\\AddSoTietKiem.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_LoaiSoTietKiem\\AddSoTietKiem.cs [Design]",
               "RelativeToolTip": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_LoaiSoTietKiem\\AddSoTietKiem.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T21:45:26.704Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-12T21:45:26.704Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "UserControl1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_LoaiSoTietKiem\\UserControl1.cs",
               "RelativeDocumentMoniker": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_LoaiSoTietKiem\\UserControl1.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_LoaiSoTietKiem\\UserControl1.cs [Design]",
               "RelativeToolTip": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_LoaiSoTietKiem\\UserControl1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T21:45:28.73Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-12T21:45:28.73Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "NoQL_NhanVien.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_NhanVien\\NoQL_NhanVien.cs",
               "RelativeDocumentMoniker": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_NhanVien\\NoQL_NhanVien.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_NhanVien\\NoQL_NhanVien.cs [Design]",
               "RelativeToolTip": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_NhanVien\\NoQL_NhanVien.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T21:11:43.967Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-12T21:11:43.967Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "QL_KhachHang.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_KhachHang\\QL_KhachHang.cs",
               "RelativeDocumentMoniker": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_KhachHang\\QL_KhachHang.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\QuanLySoTietKiem\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_KhachHang\\QL_KhachHang.cs [Design]",
               "RelativeToolTip": "Quan_Ly_So_Tiet_Kiem_Nhom_12\\QL_KhachHang\\QL_KhachHang.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T21:13:19.69Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-12T21:13:19.69Z"
             }
           ]
         }

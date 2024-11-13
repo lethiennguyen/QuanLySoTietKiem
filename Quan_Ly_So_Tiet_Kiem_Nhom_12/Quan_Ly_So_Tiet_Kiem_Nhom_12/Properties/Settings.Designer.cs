@@ -33,5 +33,16 @@ namespace Quan_Ly_So_Tiet_Kiem_Nhom_12.Properties {
                 return ((string)(this["QuanLyTietKiemConnectionString"]));
             }
         }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=DESKTOP-ATGVPAR;Initial Catalog=QuanLySoTietKiem;Integrated Security=" +
+            "True;TrustServerCertificate=True")]
+        public string QuanLySoTietKiemConnectionString {
+            get {
+                return ((string)(this["QuanLySoTietKiemConnectionString"]));
+            }
+        }
     }
 }
