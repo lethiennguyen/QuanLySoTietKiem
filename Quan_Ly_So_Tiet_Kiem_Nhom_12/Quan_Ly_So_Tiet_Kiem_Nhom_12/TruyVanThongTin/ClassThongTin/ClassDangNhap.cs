@@ -11,6 +11,8 @@ namespace Quan_Ly_So_Tiet_Kiem_Nhom_12.ClassThongTin
         public string TenDangNhap { get; set; }
         public string MatKhau { get; set; }
         public string LoaiNguoiDung { get; set; }
+        public string TenNV {  get; set; }
+        public int MaNV {  get; set; }
 
         public ClassDangNhap() { }
 
@@ -20,11 +22,22 @@ namespace Quan_Ly_So_Tiet_Kiem_Nhom_12.ClassThongTin
             MatKhau = matKhau;
             LoaiNguoiDung = loaiNguoiDung;
         }
-        public ClassDangNhap(  string loaiNguoiDung, string matKhau)
+
+        //public ClassDangNhap(string tenNV, string loaiNguoiDung, string matKhau)
+        //{
+        //    TenNV = tenNV;
+        //    LoaiNguoiDung = loaiNguoiDung;
+        //    MatKhau = matKhau;
+        //}
+
+        // New constructor that takes four parameters
+        public ClassDangNhap(int maNV ,string tenNV, string tenDangNhap, string matKhau, string loaiNguoiDung)
         {
-            LoaiNguoiDung = loaiNguoiDung;
+            MaNV = maNV; 
+            TenNV = tenNV;
+            TenDangNhap = tenDangNhap;
             MatKhau = matKhau;
-            
+            LoaiNguoiDung = loaiNguoiDung;
         }
     }
 }

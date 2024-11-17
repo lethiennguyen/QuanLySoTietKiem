@@ -52,6 +52,10 @@
             // 
             // guna2Panel1
             // 
+            this.guna2Panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(165)))), ((int)(((byte)(129)))));
+            this.guna2Panel1.BorderColor = System.Drawing.Color.Black;
+            this.guna2Panel1.BorderRadius = 10;
+            this.guna2Panel1.BorderThickness = 2;
             this.guna2Panel1.Controls.Add(this.guna2CirclePictureBox1);
             this.guna2Panel1.Controls.Add(this.chkShowPassword);
             this.guna2Panel1.Controls.Add(this.txtPassword);
@@ -86,9 +90,9 @@
             this.chkShowPassword.FillColor = System.Drawing.Color.Transparent;
             this.chkShowPassword.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.chkShowPassword.ForeColor = System.Drawing.Color.Transparent;
-            this.chkShowPassword.Location = new System.Drawing.Point(400, 158);
+            this.chkShowPassword.Location = new System.Drawing.Point(407, 159);
             this.chkShowPassword.Name = "chkShowPassword";
-            this.chkShowPassword.Size = new System.Drawing.Size(36, 25);
+            this.chkShowPassword.Size = new System.Drawing.Size(31, 21);
             this.chkShowPassword.TabIndex = 9;
             this.chkShowPassword.MouseDown += new System.Windows.Forms.MouseEventHandler(this.chkShowPassword_MouseDown_1);
             this.chkShowPassword.MouseUp += new System.Windows.Forms.MouseEventHandler(this.chkShowPassword_MouseUp_1);

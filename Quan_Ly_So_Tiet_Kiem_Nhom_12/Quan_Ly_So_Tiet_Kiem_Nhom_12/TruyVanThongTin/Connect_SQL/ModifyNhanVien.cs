@@ -23,7 +23,7 @@ namespace Quan_Ly_So_Tiet_Kiem_Nhom_12.Connect_SQL
             string Sql = "select * from dbo.NhanVien";
             try
             {
-                using (SqlConnection sqlConnection = Connect_SQL.ConnectSQL.getConnection())
+                using (SqlConnection sqlConnection = TruyVanThongTin.Connect_SQL.ConnectSQL.getConnection())
                 {
                     sqlConnection.Open();
                     dataAdapter = new SqlDataAdapter(Sql, sqlConnection);
@@ -43,7 +43,7 @@ namespace Quan_Ly_So_Tiet_Kiem_Nhom_12.Connect_SQL
             string Sql = "select * from dbo.Admin";
             try
             {
-                using (SqlConnection sqlConnection = Connect_SQL.ConnectSQL.getConnection())
+                using (SqlConnection sqlConnection = TruyVanThongTin.Connect_SQL.ConnectSQL.getConnection())
                 {
                     sqlConnection.Open();
                     dataAdapter = new SqlDataAdapter(Sql, sqlConnection);
@@ -59,7 +59,7 @@ namespace Quan_Ly_So_Tiet_Kiem_Nhom_12.Connect_SQL
         }
         public bool AddNhanVien(ClassNhanVien nhanVien)
         {
-            using (SqlConnection conn = ConnectSQL.getConnection())
+            using (SqlConnection conn = TruyVanThongTin.Connect_SQL.ConnectSQL.getConnection())
             {
                 conn.Open();
                 string queryNhanVien = "INSERT INTO NhanVien (HoTen, NgaySinh, SoDienThoai, LoaiNguoiDung) " +
@@ -84,7 +84,7 @@ namespace Quan_Ly_So_Tiet_Kiem_Nhom_12.Connect_SQL
         }
         public bool UpdateNhanVien(ClassThongTin.ClassNhanVien nhanVien)
         {
-            using (SqlConnection connection = ConnectSQL.getConnection())
+            using (SqlConnection connection = TruyVanThongTin.Connect_SQL.ConnectSQL.getConnection())
             {
                 string query = "UPDATE NhanVien SET HoTen = @HoTen,NgaySinh = @NgaySinh,SoDienThoai = @SoDienThoai, LoaiNguoiDung= @LoaiNguoiDung WHERE MaNhanVien = @MaNhanVien";
                 Command = new SqlCommand(query, connection);
@@ -109,7 +109,7 @@ namespace Quan_Ly_So_Tiet_Kiem_Nhom_12.Connect_SQL
         }
         public bool DeleteNhanVien(int maNV)
         {
-            using (SqlConnection connection =Connect_SQL.ConnectSQL.getConnection())
+            using (SqlConnection connection = TruyVanThongTin.Connect_SQL.ConnectSQL.getConnection())
             {
                 SqlTransaction transaction = null;
                 try

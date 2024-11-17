@@ -13,11 +13,12 @@ namespace Quan_Ly_So_Tiet_Kiem_Nhom_12.Connect_SQL
         public ClassDangNhap DangNhap(string tenDangNhap, string matKhau)
         {
             ClassDangNhap nguoiDung = null;
-            using (SqlConnection connection = ConnectSQL.getConnection())
+            using (SqlConnection connection = TruyVanThongTin.Connect_SQL.ConnectSQL.getConnection())
             {
-                string query = "SELECT NV.LoaiNguoiDung FROM Admin A " +
-                               "JOIN NhanVien NV ON A.MaNhanVien = NV.MaNhanVien " +
-                               "WHERE A.TenDangNhap = @tenDangNhap AND A.MatKhau = @matKhau";
+                string query = "SELECT NV.LoaiNguoiDung, NV.HoTen, NV.MaNhanVien FROM Admin A " +
+               "JOIN NhanVien NV ON A.MaNhanVien = NV.MaNhanVien " +
+               "WHERE A.TenDangNhap = @tenDangNhap AND A.MatKhau = @matKhau";
+
                 SqlCommand command = new SqlCommand(query, connection);
                 command.Parameters.AddWithValue("@tenDangNhap", tenDangNhap);
                 command.Parameters.AddWithValue("@matKhau", matKhau);
@@ -27,7 +28,9 @@ namespace Quan_Ly_So_Tiet_Kiem_Nhom_12.Connect_SQL
                 if (reader.Read())
                 {
                     string loaiNguoiDung = reader["LoaiNguoiDung"].ToString();
-                    nguoiDung = new ClassDangNhap(tenDangNhap, matKhau, loaiNguoiDung);
+                    string TenNV = reader["HoTen"].ToString();
+                    int MaNV = int.Parse(reader["MaNhanVien"].ToString());
+                    nguoiDung = new ClassDangNhap(MaNV,TenNV,tenDangNhap, matKhau, loaiNguoiDung);
                 }
                 reader.Close();
             }

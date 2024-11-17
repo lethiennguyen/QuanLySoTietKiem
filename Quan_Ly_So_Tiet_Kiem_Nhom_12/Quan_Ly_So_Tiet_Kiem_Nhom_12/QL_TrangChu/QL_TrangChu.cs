@@ -1,4 +1,5 @@
 ﻿using Guna.UI2.WinForms;
+using Quan_Ly_So_Tiet_Kiem_Nhom_12.QL_LoaiSoTietKiem;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -18,11 +19,17 @@ namespace Quan_Ly_So_Tiet_Kiem_Nhom_12.QL_TrangChu
             InitializeComponent();
         }
         public string MatKhau { get; set; }
-        public QL_TrangChu(string loaiNguoiDung,string password)
+        public int MaNV { get; set; }
+        public string TenNV { get; set; }
+        public QL_TrangChu(int maNv ,string tenDN,string loaiNguoiDung,string password)
         {
+            
             InitializeComponent();
             label1.Text = loaiNguoiDung; // Gán vai trò vào Label trên Trang Chủ
             this.MatKhau = password;
+            this.MaNV = maNv;
+            tenNV.Text = tenDN;
+            this.TenNV = tenDN;
         }
         private Form currentChilFoms;
         private void OpenChilForm(Form ChilFoms)
@@ -67,7 +74,8 @@ namespace Quan_Ly_So_Tiet_Kiem_Nhom_12.QL_TrangChu
         {
             chucnang = "Quản lý Giao dịch";
             label_Chucnang.Text = chucnang;
-            OpenChilForm(new QL_LoaiSoTietKiem.QL_SoTietKiem());
+            QL_SO qL_SO = new QL_SO();
+            OpenChilForm(qL_SO);
         }
 
         private void btn_KhachHang_Click(object sender, EventArgs e)
@@ -81,7 +89,8 @@ namespace Quan_Ly_So_Tiet_Kiem_Nhom_12.QL_TrangChu
         {
             chucnang = "Quan Ly So";
             label_Chucnang.Text = chucnang;
-            OpenChilForm(new QL_LoaiSoTietKiem.XuLySoTietKiem());
+            OpenChilForm(new QL_LoaiSoTietKiem.XuLySoTietKiem(MaNV,TenNV));
         }
+
     }
 }
