@@ -28,16 +28,14 @@ namespace Quan_Ly_So_Tiet_Kiem_Nhom_12.QL_DangNhap
 
             if (nguoiDung != null)
             {
-                if (nguoiDung.LoaiNguoiDung == "QuanLy" && nguoiDung.MatKhau == mkDangNhap)
+                if (nguoiDung.LoaiNguoiDung == "QuanLy" && nguoiDung.MatKhau == mkDangNhap && nguoiDung.TenDangNhap== tenDangNhap)
                 {
-                    
-                   
-                    QL_TrangChu.QL_TrangChu ql = new QL_TrangChu.QL_TrangChu(nguoiDung.LoaiNguoiDung, nguoiDung.MatKhau);                    
+                    QL_TrangChu.QL_TrangChu ql = new QL_TrangChu.QL_TrangChu(nguoiDung.MaNV, nguoiDung.TenNV,nguoiDung.LoaiNguoiDung, nguoiDung.MatKhau);                    
                     ql.Show();
                 }
                 else if (nguoiDung.LoaiNguoiDung == "NhanVien")
                 {
-                    QL_TrangChu.QL_TrangChu ql = new QL_TrangChu.QL_TrangChu(nguoiDung.LoaiNguoiDung, nguoiDung.MatKhau);
+                    QL_TrangChu.QL_TrangChu ql = new QL_TrangChu.QL_TrangChu(nguoiDung.MaNV,nguoiDung.TenNV, nguoiDung.LoaiNguoiDung, nguoiDung.MatKhau);
                     
                     ql.Show();
                 }

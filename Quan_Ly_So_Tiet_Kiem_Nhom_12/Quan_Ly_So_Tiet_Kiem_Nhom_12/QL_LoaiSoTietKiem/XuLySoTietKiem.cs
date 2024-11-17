@@ -13,9 +13,13 @@ namespace Quan_Ly_So_Tiet_Kiem_Nhom_12.QL_LoaiSoTietKiem
 {
     public partial class XuLySoTietKiem : Form
     {
-        public XuLySoTietKiem()
+        public int MaNv {  get; set; }
+        public string TenNV {  get; set; }
+        public XuLySoTietKiem(int maNv, string tenNV)
         {
             InitializeComponent();
+            this.MaNv = maNv;
+            this.TenNV = tenNV;
         }
 
         private void btn_GuiSo_Click(object sender, EventArgs e)
@@ -23,7 +27,7 @@ namespace Quan_Ly_So_Tiet_Kiem_Nhom_12.QL_LoaiSoTietKiem
             DialogResult result = MessageBox.Show("Gui So Tiet Kiem", "Khach hang Co Muon Them So Tiet Kiem", MessageBoxButtons.OKCancel);
             if(result == DialogResult.OK)
             {
-               AddSoTietKiem addSoTietKiem = new AddSoTietKiem();
+               AddSoTietKiem addSoTietKiem = new AddSoTietKiem(MaNv, TenNV);
                
                addSoTietKiem.Show();
                 
@@ -49,7 +53,7 @@ namespace Quan_Ly_So_Tiet_Kiem_Nhom_12.QL_LoaiSoTietKiem
         }
         private void btn_rutso_Click(object sender, EventArgs e)
         {
-            OpenChilForm( new QL_SoTietKiem() );
+            OpenChilForm( new QL_SO());
         }
     }
 }

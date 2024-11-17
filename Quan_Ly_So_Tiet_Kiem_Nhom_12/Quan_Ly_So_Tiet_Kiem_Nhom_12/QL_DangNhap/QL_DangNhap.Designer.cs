@@ -111,7 +111,7 @@
             // 
             this.txt_matkhautk.BorderColor = System.Drawing.Color.Black;
             this.txt_matkhautk.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.txt_matkhautk.DefaultText = "";
+            this.txt_matkhautk.DefaultText = "admin";
             this.txt_matkhautk.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
             this.txt_matkhautk.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
             this.txt_matkhautk.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
@@ -131,7 +131,7 @@
             // 
             this.txt_tentk.BorderColor = System.Drawing.Color.Black;
             this.txt_tentk.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.txt_tentk.DefaultText = "";
+            this.txt_tentk.DefaultText = "admin";
             this.txt_tentk.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
             this.txt_tentk.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
             this.txt_tentk.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
