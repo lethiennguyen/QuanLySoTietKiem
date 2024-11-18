@@ -127,19 +127,31 @@
   <data name="Remove-bg.ai_1730972142402" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Remove-bg.ai_1730972142402.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="0cf76619231c6184873fd89753ade3ef" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\0cf76619231c6184873fd89753ade3ef.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="password" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\password.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="logo_nganhang" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\logo_nganhang.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="savingbooks" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\savingbooks.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="tick" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\tick.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="moneybooks" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\moneybooks.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="f17faec796b7c2baa24756c0fa110f67" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\f17faec796b7c2baa24756c0fa110f67.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="tick_dong" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\tick_dong.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="11_18_2024 1_02_11 PM" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\11_18_2024 1_02_11 PM.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

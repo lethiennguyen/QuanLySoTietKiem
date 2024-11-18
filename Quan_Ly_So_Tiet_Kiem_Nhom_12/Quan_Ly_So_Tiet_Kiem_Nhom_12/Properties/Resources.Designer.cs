@@ -63,6 +63,26 @@ namespace Quan_Ly_So_Tiet_Kiem_Nhom_12.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _0cf76619231c6184873fd89753ade3ef {
+            get {
+                object obj = ResourceManager.GetObject("0cf76619231c6184873fd89753ade3ef", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _11_18_2024_1_02_11_PM {
+            get {
+                object obj = ResourceManager.GetObject("11_18_2024 1_02_11 PM", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap f17faec796b7c2baa24756c0fa110f67 {
             get {
                 object obj = ResourceManager.GetObject("f17faec796b7c2baa24756c0fa110f67", resourceCulture);
@@ -93,6 +113,16 @@ namespace Quan_Ly_So_Tiet_Kiem_Nhom_12.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap moneybooks {
+            get {
+                object obj = ResourceManager.GetObject("moneybooks", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap password {
             get {
                 object obj = ResourceManager.GetObject("password", resourceCulture);
@@ -116,6 +146,16 @@ namespace Quan_Ly_So_Tiet_Kiem_Nhom_12.Properties {
         internal static System.Drawing.Bitmap Remove_bg_ai_1731438347297 {
             get {
                 object obj = ResourceManager.GetObject("Remove-bg.ai_1731438347297", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap savingbooks {
+            get {
+                object obj = ResourceManager.GetObject("savingbooks", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

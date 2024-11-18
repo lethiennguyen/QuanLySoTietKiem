@@ -395,6 +395,10 @@
   <ItemGroup>
     <None Include="Resources\tick.jpg" />
     <None Include="Resources\tick_dong.jpg" />
+    <None Include="Resources\0cf76619231c6184873fd89753ade3ef.jpg" />
+    <None Include="Resources\moneybooks.jpg" />
+    <None Include="Resources\savingbooks.jpg" />
+    <None Include="Resources\11_18_2024 1_02_11 PM.png" />
     <Content Include="SqlServerTypes\readme.htm" />
     <Content Include="SqlServerTypes\x64\msvcr120.dll">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>

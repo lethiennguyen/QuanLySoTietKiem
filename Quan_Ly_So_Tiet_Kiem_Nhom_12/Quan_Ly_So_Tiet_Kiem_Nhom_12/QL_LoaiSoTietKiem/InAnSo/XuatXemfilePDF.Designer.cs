@@ -1,4 +1,5 @@
 ﻿namespace Quan_Ly_So_Tiet_Kiem_Nhom_12.QL_LoaiSoTietKiem.InAnSo
+
 {
     partial class XuatXemfilePDF
     {
